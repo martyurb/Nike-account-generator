@@ -2,7 +2,7 @@
 
 **Now discontinued and made public**
 
-Generates Nike accounts using reverse engineered [bot manager protection](https://www.akamai.com/uk/en/products/security/bot-manager.jsp)
+Generates Nike accounts with reverse engineered [bot manager protection](https://www.akamai.com/uk/en/products/security/bot-manager.jsp) to pass security.
 
 
 
