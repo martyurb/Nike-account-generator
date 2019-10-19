@@ -1,0 +1,13 @@
+{
+
+	"language": "en",
+
+	"locale": "GB",
+
+	"domain": "gmail.com",
+
+	"password": {
+		"random": true,
+		"fixed": ""
+	}
+}
