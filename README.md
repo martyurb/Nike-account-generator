@@ -1,6 +1,6 @@
 ## Nike account generator (2018)
 
-**Now discontinued and made public**
+**Now discontinued and made public to be used for learning purposes**
 
 Generates Nike accounts with reverse engineered [bot manager protection](https://www.akamai.com/uk/en/products/security/bot-manager.jsp) to pass security.
 
