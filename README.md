@@ -6,7 +6,7 @@ Generates Nike accounts with reverse engineered [bot manager protection](https:/
 
 
 
-✔️ Bot manager bypass
+✔️ Bot manager bypass (Now Outdated)
 
 ✔️ Support for Huawei USB Modem used for SMS code verification
 
